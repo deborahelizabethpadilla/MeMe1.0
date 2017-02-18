@@ -2,7 +2,7 @@
 
 **Summary:**
 
-This iOS application was created specifically for the Udacity's iOS Developer Nanodegree. This is the first version of MemeMe.
+This iOS application was created specifically for the [Udacity's iOS Developer Nanodegree](https://www.udacity.com). This is the first version of MemeMe.
 
 **The application offers the following features:**
 
