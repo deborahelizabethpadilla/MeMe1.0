@@ -28,3 +28,5 @@ This iOS application was created specifically for [Udacity's iOS Developer Nanod
 **Closing:**
 
 In conclusion, I have learned a lot by working on this project. I am confident that I mastered UIKit and am able to successfully create applications using different scenes, functions and assets in order to create an exciting application.
+
+![meme1](https://cloud.githubusercontent.com/assets/20284373/23474074/7e9c6a5e-fe80-11e6-8480-c9ea7ecfbab8.png) ![meme2](https://cloud.githubusercontent.com/assets/20284373/23474076/7ea49c38-fe80-11e6-95e7-6308188ce57b.png) ![meme3](https://cloud.githubusercontent.com/assets/20284373/23474075/7ea45732-fe80-11e6-8225-1a5422f38626.png) ![meme4](https://cloud.githubusercontent.com/assets/20284373/23474077/7ea5921e-fe80-11e6-947d-d0785f1081bc.png)
